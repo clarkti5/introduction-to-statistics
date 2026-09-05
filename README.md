@@ -1,5 +1,5 @@
-# introduction-to-statistics
-Free materials for introductory statistics with Python.
+# An Introduction to Statistics
+Free materials for introductory statistics course with Python.
 
 I'm currently in the process of transferring the materials to this GitHub repository. Stay tuned!
 
